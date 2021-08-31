@@ -1,7 +1,7 @@
 import React, {useState} from 'react'
 import Maxmin from './components/max_min'
 const api = {
-  key: "bac0cf7b11af6912828f610110dc8eea",
+  key: "ADD YOUR OWN KEY",
   base: "https://api.openweathermap.org/data/2.5/"
 }
 
